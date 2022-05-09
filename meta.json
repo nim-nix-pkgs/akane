@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/ethosa/akane",
   "refs": [
-    "fatal: unable to access 'https://github.com/ethosa/akane/': Couldn't connect to server",
+    "fatal: expected flush after ref listing",
     ""
   ],
   "heads": []
